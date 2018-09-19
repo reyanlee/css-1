@@ -1,0 +1,98 @@
+ body, html {
+ 	background: #f6f6f6
+ }
+
+ #painting {
+ 	height: 400px;
+ 	width: 400px;
+ 	background-color: #fff4db;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	margin-top: 30px;
+ 	box-shadow: 10px 5px #888888;
+ }
+
+ #toprow {
+ 	height: 290px;
+ }
+
+ #bigbox {
+ 	width: 290px;
+ 	height: 290px;
+ }
+
+ .darksalmon {
+ 	background-color: #E9967A;
+ }
+
+ .lightblue {
+ 	background-color: #ADD8E6;
+ }
+
+ .lightcyan {
+ 	background-color: #E0FFFF;
+ }
+
+ .black {
+ 	background-color: black;
+ }
+
+.right {
+	float: right;
+} 
+
+#topdivider {
+ 	height: 290px;
+ 	width: 10px;
+ }
+
+ #topleftcolumn {
+ 	height: 290px;
+ 	width: 100px;
+ }
+
+ #mediumbox {
+ 	height: 140px;
+ 	width: 100px;
+ }
+
+ #divider2 {
+ 	height: 10px;
+ 	width: 100px;
+ }
+
+ #middledivider {
+ 	height: 10px;
+ 	widows: 400px;
+ }
+
+ #bottomrow {
+ 	height: 100px;
+ }
+
+ #bottomrightcolumn {
+ 	width: 20px;
+ }
+
+ #smallbox {
+ 	height: 45px;
+ }
+
+ #smalldivider {
+ 	height: 10px;
+ }
+
+ #shortverticaldivider {
+	height: 100px;
+ 	width: 10px;
+ }
+
+ #bottombox {
+ 	height: 100px;
+ 	width: 260px;
+ }
+
+ #squarebox {
+ 	height: 100px;
+ 	width: 100px;
+ }
